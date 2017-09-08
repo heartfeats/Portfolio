@@ -2,7 +2,25 @@ h3 {
   text-align: center;
 }
 
-img {
+h5 {
+  text-align: center;
+}
+
+.rat {
   display: block;
   margin: auto;
+  margin-bottom: 50px;
+}
+
+.project-box {
+  margin: 12px;
+  border-width: 2px;
+  border-style: double;
+  border-color: #b3ffff;
+  padding: 10px;
+  background-color: #f2f2f2;
+}
+
+.projects {
+  text-decoration-color: #b3ffff;
 }
